@@ -41,6 +41,7 @@ int main() {
 	//This is the change made by me in the code.
 	int t;
 	cin >> t;
-	while(t--) solve();
-	return 0;
-}
+	while(t--) 
+	     solve();
+	     return 0;
+	}
