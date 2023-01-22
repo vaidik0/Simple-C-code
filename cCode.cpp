@@ -38,9 +38,10 @@ void solve() {
 }
 
 int main() {
-	// your code goes here
+	//This is the change made by me in the code.
 	int t;
 	cin >> t;
-	while(t--) solve();
-	return 0;
-}
+	while(t--) 
+	     solve();
+	     return 0;
+	}
